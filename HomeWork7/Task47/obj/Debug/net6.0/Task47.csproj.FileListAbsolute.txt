@@ -1,0 +1,15 @@
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\bin\Debug\net6.0\Task47.exe
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\bin\Debug\net6.0\Task47.dll
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\bin\Debug\net6.0\Task47.pdb
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.dll
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\refint\Task47.dll
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.pdb
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\Users\Михнас\Desktop\Новая папка\HomeWork7\Task47\obj\Debug\net6.0\ref\Task47.dll
